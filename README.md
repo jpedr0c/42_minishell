@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <sub> C program to redirect process output to input via pipes and execute specified commands in a file.
+  <sub> 🏗️ README in progress 🏗️
   <sub>
 </p>
 
@@ -65,5 +65,12 @@ make fclean
 
 <a id="Credits"></a>
 ## 🏆 Credits
-| [<img src="https://avatars.githubusercontent.com/u/78514252?v=4" width="120"><br><sub> João Pedro </sub>](https://www.linkedin.com/in/jpedroc) | <p align="justify">***Thank you for taking the time to review my project. If you have any questions or would like to connect with me, please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jpedroc)***</p> | 
+<h3 align="center">Thank you for taking the time to review our project!</h3>
+
+<div align="center">
+
+| [<img src="https://avatars.githubusercontent.com/u/78514252?v=4" width="120"><br><p align="center"> João Pedro </p>](https://github.com/jpedr0c) | <p align="justify">***If you have any questions or would like to connect with me, please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jpedroc)***</p> |
 |---|---|
+| [<img src="https://avatars.githubusercontent.com/u/57332018?v=4" width="120"><br><p align="center"> Raoni Silva </p>](https://github.com/raonieqr) | <p align="justify">***If you have any questions or would like to connect with me, please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/raonieqr/)***</p> |
+
+</div>
