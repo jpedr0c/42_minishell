@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <sub> 🏗️ README in progress 🏗️
+  <sub> This project aims to create a minimal C shell capable of executing some basic Unix commands.
   <sub>
 </p>
 
@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="#About"> 💡 About the project </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#HowWork"> 📝 </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Explanation"> 📝 Explanation </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#HowUse"> ⚙️ How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Credits"> 🏆 Credits</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
@@ -26,12 +26,12 @@
 
 <a id="About"></a>
 ## 💡 About the project
-> 
+> This project is part of 42's curriculum and aims to create a basic shell in C, capable of executing some basic Unix commands. In this project we learned more about dealing with reading and interpreting command line commands, managing processes, and manipulating files and directories. After completing the project we gained a good understanding of the dynamics of Unix shells.
 
 <br/>
 
-<a id="HowWork"></a>
-## 📝 
+<a id="Explanation"></a>
+## 📝 Explanation
 
 
 
