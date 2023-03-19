@@ -33,7 +33,11 @@
 <a id="Explanation"></a>
 ## 📝 Explanation
 
-<h3>IN PROGRESS</h3>
+- Minishell is a C language program that simulates a shell, which is a command-line interface that allows the user to execute commands and programs on the operating system. When running Minishell, the user can enter commands such as `ls`, `cd`, `echo`, `pwd`, `exit`, `cat`, `grep`, redirection (`<`, `>`) and heredocs (`<<`), which will be executed by the program.
+
+- It's built around an infinite loop that reads user inputs line by line. It interprets each line as a command to be executed and parses the input to identify the command name and its arguments.
+
+- Minishell is also responsible for managing processes. When the user enters a command that needs to create a new process, Minishell is responsible for creating that process and executing the program associated with it. Minishell is also capable of handling interruption signals, such as CTRL+C, and redirecting input and output to files.
 
 <br/>
 
